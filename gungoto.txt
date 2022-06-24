@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CMP </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/69d86265d2.js" crossorigin="anonymous"></script>
+<style>
+a:link, a:visited {
+  background-color: #4682b4;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: darkgreen;
+}
+.center {
+  text-align: center;
+  color: darkgreen;
+}
+</style>
+</head>
+<body>
+
+<h1 class="center"><i class="fa-solid fa-ghost" style="font-size:45px;color:darkseagreen;"></i> Qualitative Chemistry <i class="fa-solid fa-ghost" style="font-size:45px;color:darkseagreen;"></i></h1><br>
+
+<p class="center"><a href="https://www.facebook.com/100009260868183/videos/522836645855372/" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 1</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100009260868183/videos/4482247301881070/" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;"> Class 2 </i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100009260868183/videos/1571002629925934/" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 3</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100075815367861/videos/682508856392490/" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 4</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100009260868183/videos/983882929231839/" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 5</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100075815367861/videos/1132506684261024/" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 6</i></a></p><br>
+
+<p class="center"><a href="https://www.facebook.com/100011247723155/videos/1009083446682014/" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;">Class 7</i></a></p><br>
+
+<p class="center"><a href="https://youtu.be/k9Bor-B4tEs" target="_blank"><i class="fa-solid fa-bomb" style="font-size:45px;color:black;"> MCQ Class</i></a></p><br>
+
+<i class=""></i>
+</body>
+</html>
+
+
